@@ -1,0 +1,160 @@
+@font-face {
+  font-family: SourceSans-Bold;
+  src: url(../../fonts/SourceSansPro/SourceSansPro-Bold.ttf);
+}
+
+@font-face {
+  font-family: SourceSans-Regular;
+  src: url(../../fonts/SourceSansPro/SourceSansPro-Regular.ttf);
+}
+
+@font-face {
+  font-family: SourceSans-Light;
+  src: url(../../fonts/SourceSansPro/SourceSansPro-Light.ttf);
+}
+
+@font-face {
+  font-family: SourceSans-Semibold;
+  src: url(../../fonts/SourceSansPro/SourceSansPro-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Trellicons;
+  src: url(../../fonts/Trellicons/trellicons.4525327b3f0a2d81edda.ttf);
+}
+
+.trl::before {
+  font-family: Trellicons;
+}
+
+.trl.icon-board::before {
+  content: "\e90b";
+}
+
+.trl.icon-template-board::before {
+  content: "\e96d";
+}
+
+.trl.icon-home::before {
+  content: "\e938";
+}
+
+.trl.icon-chevron-down::before {
+  content: "\e924";
+}
+
+.trl.icon-bell::before {
+  content: "\e94c";
+}
+
+.trl.icon-star::before {
+  content: "\e966";
+}
+
+.trl.icon-starred::before {
+  content: "\e967";
+}
+
+.trl.icon-add-member::before {
+  content: "\e902";
+}
+
+.trl.icon-tri-dots-hor::before {
+  content: "\e952";
+}
+
+.trl.icon-dashboard::before {
+  content: "\e96b";
+}
+
+.trl.icon-add::before {
+  content: "\e901";
+}
+
+.trl.icon-close::before {
+  content: "\e91c";
+}
+
+.trl.icon-edit::before {
+  content: "\e928";
+}
+
+.trl.icon-subscribe::before {
+  content: "\e969";
+}
+
+.trl.icon-clock::before {
+  content: "\e91b";
+}
+
+.trl.icon-checkbox-checked::before {
+  content: "\e91a";
+}
+
+.trl.icon-checkbox-unchecked::before {
+  content: "\e919";
+}
+
+.trl.icon-description::before {
+  content: "\e922";
+}
+
+.trl.icon-attachment::before {
+  content: "\e908";
+}
+
+.trl.icon-card-cover::before {
+  content: "\e914";
+}
+
+.trl.icon-back::before {
+  content: "\e90a";
+}
+
+.trl.icon-card::before {
+  content: "\e912";
+}
+
+.trl.icon-check::before {
+  content: "\e916";
+}
+
+.trl.icon-external-link::before {
+  content: "\e92c";
+}
+
+.trl.icon-trash::before {
+  content: "\e972";
+}
+
+.trl.icon-member::before {
+  content: "\e946";
+}
+
+.trl.icon-label::before {
+  content: "\e93f";
+}
+
+.trl.icon-move::before {
+  content: "\e94a";
+}
+
+.trl.icon-copy::before {
+  content: "\e91f";
+}
+
+.trl.icon-archive::before {
+  content: "\e907";
+}
+
+.trl.icon-refresh::before {
+  content: "\e95b";
+}
+
+.trl.icon-remove::before {
+  content: "\e95c";
+}
+
+.trl.icon-search::before {
+  content: "\e960";
+}
